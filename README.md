@@ -20,12 +20,20 @@ El fichero contiene la información de las empresas que se quieren analizar. Dic
 Datos de Entrada
 
 Cada dato de entrada deberá estar separado solo por un espacio en blanco 
+
 Cada línea del fichero de entrada deberá contener la siguiente información:
+
 Descripción de la empresa.
-	Contendrá el código del sector de la industria al que pertenece la empresa. Dicho código solo pueden ser: C (comida), T (transporte), O (ordenadores), M (metal), S (salud) o A (aerolíneas) seguido por un guión (-) y el nombre de la empresa sin espacios en blanco.
-	El código debe ser escrito solo con letras mayúsculas.
+
+		Contendrá el código del sector de la industria al que pertenece la empresa. Dicho código solo pueden ser: C (comida), T (transporte), O (ordenadores), M (metal), S (salud) o A (aerolíneas) seguido por un guión (-) y el nombre de la empresa sin espacios en blanco.
+	
+		El código debe ser escrito solo con letras mayúsculas.
+	
 Precio de cada acción de la compañía.
-	El valor debe ser mayor y diferente de 0
+
+		El valor debe ser mayor y diferente de 0
+	
 Número de acciones que posee la empresa.
-	El valor debe ser mayor y diferente de 0
+
+		El valor debe ser mayor y diferente de 0
 
